@@ -1,4 +1,4 @@
-# E-commerce Log Analytics with ELK Stack - MLOps LAB4
+# E-commerce Log Analytics with ELK Stack - Lab4
 
 ## Project Description
 A log analytics system using ELK Stack (Elasticsearch, Logstash, Kibana) to monitor and analyze e-commerce transactions in real-time. The system processes 1,000+ transaction logs and provides interactive dashboards for business insights.
